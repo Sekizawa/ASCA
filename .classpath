@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11"/>
+	<classpathentry kind="lib" path="lib/junit-4.9.jar"/>
+	<classpathentry kind="lib" path="lib/fmu-wrapper-2.25.0.jar"/>
+	<classpathentry kind="lib" path="lib/fmu-builder-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/fmu-framework-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/simple-xml-2.6.9.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
